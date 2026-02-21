@@ -15,7 +15,7 @@
 
 
 ::-webkit-scrollbar {
-  /* display: none; */
+  display: none;
 }
 html,body{
     min-height: 100vh;
